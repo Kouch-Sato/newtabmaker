@@ -1,0 +1,12 @@
+body {
+    background-image: url(main.jpg);
+    background-size: cover;
+    padding-top: 200px;
+}
+
+p {
+    font-size: 100px;
+    text-align: center;
+    height: 50%;
+    color: white;
+}

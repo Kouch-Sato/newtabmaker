@@ -1,0 +1,26 @@
+body {
+    font-size: 30px;
+    text-align: center;
+    height: 50%;
+    background-color: skyblue;
+}
+
+#name {
+    padding: 50px;
+    font-size: 30px;
+}
+
+
+#btn {
+    padding: 8px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 20px;
+    background: pink;
+
+}
+  
+#btn:hover {
+opacity: 1;
+}
